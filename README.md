@@ -8,9 +8,9 @@ and how it can be retrieved using APIs.
 ##  What This Project Does
 
 * Accepts temperature readings from IoT sensors using a REST API
-* Stores sensor data in **MongoDB Atlas ( a cloud database)**
-* Returns the **latest temperature reading** for any sensor
-* Listens to **MQTT messages** from sensors and stores them automatically
+* Stores sensor data in MongoDB Atlas ( a cloud database)
+* Returns the latest temperature reading for any sensor
+* Listens to MQTT messages from sensors and stores them automatically
 
 ---
 
@@ -234,11 +234,9 @@ MongoDB Data Collected -
 ##  Author
 
 Mayuresh Thakur
-Internship Candidate
 
 ---
 
 ##  Final Note
 
-This poject demonstrates backend fundamentals, database integration, and IoT message handling. Thank You for giving me this opportunity and it was an good experience for me in buiding 
-this task. Looking forward to contributing ahead to this role and building more real world projects and making a impact.
+This project demonstrates backend fundamentals, database integration, and IoT message handling. Thank You for giving me this opportunity and it was an good experience for me in buiding this task. Looking forward to contributing ahead to this role and building more real world projects and making a impact.
