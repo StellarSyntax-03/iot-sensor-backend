@@ -123,7 +123,7 @@ Used to ingest temperature data from sensors.
   "message": "Data saved successfully"
 }
 ```
-<img width="1481" height="1000" alt="image" src="https://github.com/user-attachments/assets/84213b17-7d5d-40bc-b4ab-83dfff7ff61a" />
+<img width="1849" height="663" alt="image" src="https://github.com/user-attachments/assets/3e873304-a687-4ada-be3e-61e285938e20" />
 
 
 ---
@@ -217,26 +217,8 @@ The data inserted via MQTT can be fetched using the same REST API.
 MongoDB Data Collected -
 <img width="1507" height="831" alt="image" src="https://github.com/user-attachments/assets/c04723f5-5d89-4ae9-9b9d-36bb82ca2e07" />
 
-## Assignment Requirements Covered
-
-| Requirement               | Status |
-| ------------------------- | ------ |
-| POST API                  | ✅      |
-| GET Latest API            | ✅      |
-| MongoDB Atlas Integration | ✅      |
-| Validation                | ✅      |
-| Timestamp Default         | ✅      |
-| MQTT Subscriber           | ✅      |
-| Documentation             | ✅      |
-
----
 
 ##  Author
 
 Mayuresh Thakur
 
----
-
-##  Final Note
-
-This project demonstrates backend fundamentals, database integration, and IoT message handling. Thank You for giving me this opportunity and it was an good experience for me in buiding this task. Looking forward to contributing ahead to this role and building more real world projects and making a impact.
